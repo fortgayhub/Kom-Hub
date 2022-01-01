@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/fortgayhub/Kom-Hub/main/loader.lua'))()
